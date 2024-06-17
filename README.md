@@ -18,7 +18,7 @@
 
 <div>
 
-  <a href="" target="_blank"><img src= "https://img.shields.io/badge/Facebook-96592?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src= "https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
   
 </div>
 
