@@ -17,9 +17,7 @@
 ### Para ver meus projetos mais recentes me segue nas redes abaixo!
 
 <div>
-
   <a href="https://www.facebook.com/eduardo.guedes.96592/" target="_blank"><img src= "https://img.shields.io/badge/Facebook-0000FF?style=for-the-badge&logo=facebook&logoColor=white" target="_blank"></a>
-  
 </div>
 
 </div>
